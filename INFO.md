@@ -1,1 +1,1 @@
-git is avesome!
+git is awesome!
